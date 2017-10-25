@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 09 13:38:33 2016
 
-@author: Tansu Alpcan
+@author: Xiaoqian Xie
 
 ELEN90061 Workshop 3_ 709716-850965 of session Thu-9
 """
